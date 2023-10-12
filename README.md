@@ -8,4 +8,5 @@ such as kilometers driven, name of car, fuel type, etc.
 3. Testing
 4. Dataset
 
-   
+![Screenshot (63)](https://github.com/Abhishek0732/Car-Price-Prediction/assets/93417069/27283abf-9715-472f-9089-7b60e346112f)
+
